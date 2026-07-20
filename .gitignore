@@ -4,3 +4,7 @@ node_modules/
 *.dll
 
 # Long filename
+
+# Junk files
+.en_write_skip.json
+webdev_search.db
